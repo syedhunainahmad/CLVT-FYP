@@ -3,7 +3,5 @@
 @include('web.content.head')
 @include('web.content.work')
 
- 
-
 
 @include('web.layouts.footer')
